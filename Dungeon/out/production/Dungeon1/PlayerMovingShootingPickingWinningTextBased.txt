@@ -1,0 +1,157 @@
+C:\Program Files\Java\jdk-11.0.12\bin>java.exe -jar d:Dungeon.jar 6 5 13 false 80 5 11
+Game Starts, you could view Dungeon, Otyughs, and Gems by pressing D, O, G respectively.
+You smell something terrible nearby
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:27
+You find 1 Arrow here
+Doors lead to  E W N
+Move, Pickup, or Shoot (M-P-S)?p
+
+What? arrow
+You pick up a ARROW
+You smell something terrible nearby
+
+Player P, has 4 Arrow
+You are in a CAVE, Player Position:27
+Doors lead to  E W N
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? n
+
+Player moved to N
+You smell something more pungent nearby
+
+Player P, has 4 Arrow
+You are in a CAVE, Player Position:21
+You find 1 Sapphire, 1 Ruby, 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?p
+
+What? sapphire
+You pick up a SAPPHIRE
+You smell something more pungent nearby
+
+Player P, has 1 Sapphire, 4 Arrow
+You are in a CAVE, Player Position:21
+You find 1 Ruby, 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?p
+
+What? ruby
+You pick up a RUBY
+You smell something more pungent nearby
+
+Player P, has 1 Sapphire, 1 Ruby, 4 Arrow
+You are in a CAVE, Player Position:21
+You find 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?s
+
+No. of caves (1-5)? 1
+
+Where to? e
+
+Nice shot!! You hear a great howl in the distance
+
+You smell something more pungent nearby
+
+Player P, has 1 Sapphire, 1 Ruby, 3 Arrow
+You are in a CAVE, Player Position:21
+You find 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?s
+
+No. of caves (1-5)? 1
+
+Where to? e
+
+Congratulations!! you killed the Otyugh
+
+
+Player P, has 1 Sapphire, 1 Ruby, 2 Arrow
+You are in a CAVE, Player Position:21
+You find 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+Player moved to E
+You found a Dead Otyugh here.
+
+
+Player P, has 1 Sapphire, 1 Ruby, 2 Arrow
+You are in a CAVE, Player Position:22
+You find 1 Sapphire, 1 Ruby, 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? n
+
+Player moved to N
+
+Player P, has 1 Sapphire, 1 Ruby, 2 Arrow
+You are in a TUNNEL, Player Position:16
+You find 1 Arrow here
+Doors lead to  N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? n
+
+Player moved to N
+You smell something terrible nearby
+
+Player P, has 1 Sapphire, 1 Ruby, 2 Arrow
+You are in a CAVE, Player Position:10
+You find 1 Diamond,  here
+Doors lead to  E W S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? w
+
+Player moved to W
+You smell something more pungent nearby
+
+Player P, has 1 Sapphire, 1 Ruby, 2 Arrow
+You are in a CAVE, Player Position:9
+You find 1 Sapphire, 1 Arrow here
+Doors lead to  E W N
+Move, Pickup, or Shoot (M-P-S)?s
+
+No. of caves (1-5)? 1
+
+Where to? n
+
+Nice shot!! You hear a great howl in the distance
+
+You smell something more pungent nearby
+
+Player P, has 1 Sapphire, 1 Ruby, 1 Arrow
+You are in a CAVE, Player Position:9
+You find 1 Sapphire, 1 Arrow here
+Doors lead to  E W N
+Move, Pickup, or Shoot (M-P-S)?s
+
+No. of caves (1-5)? 1
+
+Where to? n
+
+Congratulations!! you killed the Otyugh
+
+You smell something terrible nearby
+
+Player P, has 1 Sapphire, 1 Ruby,
+You are in a CAVE, Player Position:9
+You find 1 Sapphire, 1 Arrow here
+Doors lead to  E W N
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? n
+
+Player moved to N
+You are in a CAVE Player Position: 3
+You find a dead Otyugh
+Congratulations!! Player Wins
+
+Game Ends

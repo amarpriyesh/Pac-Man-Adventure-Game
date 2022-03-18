@@ -1,0 +1,338 @@
+Game Starts, you could view Dungeon, Otyughs, and Gems by pressing D, O, G respectively.
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:31
+Doors lead to  W
+Move, Pickup, or Shoot (M-P-S)?d
+
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚E╝
+╚╝╙╖╘╗
+╔P╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:31
+Doors lead to  W
+Move, Pickup, or Shoot (M-P-S)?o
+
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔P╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:31
+Doors lead to  W
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? w
+
+Player moved to W
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+P╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:30
+Doors lead to  E S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? s
+
+Player moved to S
+P═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:0
+Doors lead to  E N
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+Player moved to E
+╚P╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:1
+You find 1 Arrow here
+Doors lead to  E W
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+Player moved to E
+╚═P╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:2
+You find 2 Diamond, 1 Sapphire, 5 Ruby,  here
+Doors lead to  W N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+This move is Invalid
+
+╚═P╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:2
+You find 2 Diamond, 1 Sapphire, 5 Ruby,  here
+Doors lead to  W N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? s
+
+Player moved to S
+╚═╣╠═╣
+╖╘P╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:8
+Doors lead to  W N
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? w
+
+Player moved to W
+╚═╣╠═╣
+╖P╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:7
+You find 1 Arrow here
+Doors lead to  E
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+Player moved to E
+╚═╣╠═╣
+╖╘P╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:8
+Doors lead to  W N
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? n
+
+Player moved to N
+╚═P╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:2
+You find 2 Diamond, 1 Sapphire, 5 Ruby,  here
+Doors lead to  W N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? n
+
+Player moved to N
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕P╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:32
+Doors lead to  E S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+Player moved to E
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔P═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:33
+You find 1 Sapphire, 1 Arrow here
+Doors lead to  E W N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? s
+
+Player moved to S
+╚═╣P═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a CAVE, Player Position:3
+Doors lead to  E N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? s
+
+Player moved to S
+╚═╣╠═╣
+╖╘╝P╗╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:9
+Doors lead to  E N
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? e
+
+Player moved to E
+╚═╣╠═╣
+╖╘╝╚P╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+You smell something terrible nearby
+
+Player P, has 3 Arrow
+You are in a TUNNEL, Player Position:10
+You find 1 Arrow here
+Doors lead to  W S
+Move, Pickup, or Shoot (M-P-S)?s
+
+No. of caves (1-5)? 1
+
+Where to? s
+
+Nice shot!! You hear a great howl in the distance
+
+╚═╣╠═╣
+╖╘╝╚P╙
+╣╔╦╗║╔
+╠╬╣╚O╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+You smell something terrible nearby
+
+Player P, has 2 Arrow
+You are in a TUNNEL, Player Position:10
+You find 1 Arrow here
+Doors lead to  W S
+Move, Pickup, or Shoot (M-P-S)?s
+
+No. of caves (1-5)? 1
+
+Where to? s
+
+Congratulations!! you killed the Otyugh
+
+╚═╣╠═╣
+╖╘╝╚P╙
+╣╔╦╗║╔
+╠╬╣╚E╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 1 Arrow
+You are in a TUNNEL, Player Position:10
+You find 1 Arrow here
+Doors lead to  W S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? s
+
+Player moved to S
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗P╔
+╠╬╣╚E╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Player P, has 1 Arrow
+You are in a TUNNEL, Player Position:16
+Doors lead to  N S
+Move, Pickup, or Shoot (M-P-S)?m
+
+Where to? s
+
+Player moved to S
+You are in a CAVE Player Position: 22
+You find a dead Otyugh
+Congratulations!! Player Wins
+╚═╣╠═╣
+╖╘╝╚╗╙
+╣╔╦╗║╔
+╠╬╣╚P╝
+╚╝╙╖╘╗
+╔╕╔╬═╣
+
+
+Game Ends
