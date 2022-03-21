@@ -2,7 +2,8 @@
 This program creates a Dungeon game where the player could move to the end point collecting gems and arrows, the Dungeon now has Otyugh and it provides option to add thieves, pits, and moving monster  as well which could kill the user if they do not  play visely.
 The game ends when the user reaches the end point killing the  otyugh at the end cave.
 
-
+#GAMEPLAY
+![](https://github.com/amarpriyesh/Pac-Man-Adventure-Game/Gameplay.gif)
 # FEATURES
 1. The program features creation of players and assigning of treasures to the location so  that the player could go to each location and collect them.
 2. It imititates the game pacman.
