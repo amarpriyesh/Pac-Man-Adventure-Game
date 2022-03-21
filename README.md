@@ -3,7 +3,7 @@ This program creates a Dungeon game where the player could move to the end point
 The game ends when the user reaches the end point killing the  otyugh at the end cave.
 
 #GAMEPLAY
-![](https://github.com/amarpriyesh/Pac-Man-Adventure-Game/Gameplay.gif)
+![](https://github.com/amarpriyesh/Pac-Man-Adventure-Game/blob/master/Gameplay.gif)
 # FEATURES
 1. The program features creation of players and assigning of treasures to the location so  that the player could go to each location and collect them.
 2. It imititates the game pacman.
